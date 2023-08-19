@@ -1,0 +1,16 @@
+#progressbar {
+    width: 0%;
+    height: 30px;
+    background-color: green;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.btn>button {
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 5px;
+}
